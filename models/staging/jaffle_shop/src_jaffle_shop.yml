@@ -2,7 +2,7 @@ version: 2
 
 sources:
   - name: Raw
-    description: A clone of a Postgres application database.
+    description: A clone of the application database.
     database: osschott
     tables:
       - name: customers
